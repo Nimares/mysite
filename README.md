@@ -6,4 +6,6 @@ Project redone from scratch due to unknown issues. Therefore there are no branch
 Contributions by
 https://github.com/Nimares
 https://github.com/beajv/
+https://github.com/Chrves/
+https://github.com/frodobaggins1234/
 
